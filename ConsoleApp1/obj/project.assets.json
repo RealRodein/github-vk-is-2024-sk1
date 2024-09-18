@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rodein\\OneDrive\\.vscode\\codes\\c#\\github-vk-is-2024-sk1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\rodein\\OneDrive\\codes\\c#\\github-vk-is-2024-sk1\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\rodein\\OneDrive\\.vscode\\codes\\c#\\github-vk-is-2024-sk1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectPath": "C:\\Users\\rodein\\OneDrive\\codes\\c#\\github-vk-is-2024-sk1\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\rodein\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rodein\\OneDrive\\.vscode\\codes\\c#\\github-vk-is-2024-sk1\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\rodein\\OneDrive\\codes\\c#\\github-vk-is-2024-sk1\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rodein\\AppData\\Roaming\\NuGet\\NuGet.Config"
