@@ -1,1 +1,1 @@
-# github-vk-is-2024-sk1
+# hah toto je dir s programky
