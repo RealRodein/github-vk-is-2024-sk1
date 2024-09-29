@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\rodein\\OneDrive\\codes\\c#\\github-vk-is-2024-sk1\\IS-Projekty\\001-app1-vypis-rady\\001-app1-vypis-rady.csproj": {}
+    "C:\\Users\\rodein\\OneDrive\\codes\\c#\\github-vk-is-2024-sk1\\IS-Projekty\\001-app1-vypis-rady\\001-app1-vypis-rady.csproj": {}
   },
   "projects": {
-    "c:\\Users\\rodein\\OneDrive\\codes\\c#\\github-vk-is-2024-sk1\\IS-Projekty\\001-app1-vypis-rady\\001-app1-vypis-rady.csproj": {
+    "C:\\Users\\rodein\\OneDrive\\codes\\c#\\github-vk-is-2024-sk1\\IS-Projekty\\001-app1-vypis-rady\\001-app1-vypis-rady.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\rodein\\OneDrive\\codes\\c#\\github-vk-is-2024-sk1\\IS-Projekty\\001-app1-vypis-rady\\001-app1-vypis-rady.csproj",
+        "projectUniqueName": "C:\\Users\\rodein\\OneDrive\\codes\\c#\\github-vk-is-2024-sk1\\IS-Projekty\\001-app1-vypis-rady\\001-app1-vypis-rady.csproj",
         "projectName": "001-app1-vypis-rady",
-        "projectPath": "c:\\Users\\rodein\\OneDrive\\codes\\c#\\github-vk-is-2024-sk1\\IS-Projekty\\001-app1-vypis-rady\\001-app1-vypis-rady.csproj",
+        "projectPath": "C:\\Users\\rodein\\OneDrive\\codes\\c#\\github-vk-is-2024-sk1\\IS-Projekty\\001-app1-vypis-rady\\001-app1-vypis-rady.csproj",
         "packagesPath": "C:\\Users\\rodein\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\rodein\\OneDrive\\codes\\c#\\github-vk-is-2024-sk1\\IS-Projekty\\001-app1-vypis-rady\\obj\\",
+        "outputPath": "C:\\Users\\rodein\\OneDrive\\codes\\c#\\github-vk-is-2024-sk1\\IS-Projekty\\001-app1-vypis-rady\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\rodein\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\rodein\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

@@ -1,9 +1,10 @@
-﻿namespace _001_app1_vypis_rady;
-
-class Program
+﻿namespace _001_app1_vypis_rady
 {
-    static void Main(string[] args)
+    internal class Program
     {
-        Console.WriteLine("Hello, World!");
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello, World!");
+        }
     }
 }
