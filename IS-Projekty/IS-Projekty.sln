@@ -7,6 +7,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "001-app1-vypis-rady", "001-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002-app2-soucet-cifer", "002-app2-soucet-cifer\002-app2-soucet-cifer.csproj", "{82ABF535-48B2-469C-A8C7-3BA1CB39CAD7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003-app3-vypis-obrazce", "003-app3-vypis-obrazce\003-app3-vypis-obrazce.csproj", "{47509545-1A09-45E9-8C53-172F0343528A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "usefull-functions", "000-usefull-functions\usefull-functions.csproj", "{6D53D2F4-16AC-4F58-9776-2D7043A56F71}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{82ABF535-48B2-469C-A8C7-3BA1CB39CAD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{82ABF535-48B2-469C-A8C7-3BA1CB39CAD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{82ABF535-48B2-469C-A8C7-3BA1CB39CAD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47509545-1A09-45E9-8C53-172F0343528A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47509545-1A09-45E9-8C53-172F0343528A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47509545-1A09-45E9-8C53-172F0343528A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47509545-1A09-45E9-8C53-172F0343528A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D53D2F4-16AC-4F58-9776-2D7043A56F71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D53D2F4-16AC-4F58-9776-2D7043A56F71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D53D2F4-16AC-4F58-9776-2D7043A56F71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D53D2F4-16AC-4F58-9776-2D7043A56F71}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
