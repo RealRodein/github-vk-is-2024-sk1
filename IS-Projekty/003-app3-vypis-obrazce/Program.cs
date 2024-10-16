@@ -1,5 +1,4 @@
 ﻿using System.Collections;
-
 namespace _003_app3_vypis_obrazce
 {
     internal class Program

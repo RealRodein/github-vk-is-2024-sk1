@@ -5,11 +5,11 @@ VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "001-app1-vypis-rady", "001-app1-vypis-rady\001-app1-vypis-rady.csproj", "{BD441A5E-003F-45EE-960C-83327B34E54C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002-app2-soucet-cifer", "002-app2-soucet-cifer\002-app2-soucet-cifer.csproj", "{82ABF535-48B2-469C-A8C7-3BA1CB39CAD7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002-app2-soucet-cifer", "002-app2-soucet-cifer\002-app2-soucet-cifer.csproj", "{82ABF535-48B2-469C-A8C7-3BA1CB39CAD7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003-app3-vypis-obrazce", "003-app3-vypis-obrazce\003-app3-vypis-obrazce.csproj", "{47509545-1A09-45E9-8C53-172F0343528A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "003-app3-vypis-obrazce", "003-app3-vypis-obrazce\003-app3-vypis-obrazce.csproj", "{47509545-1A09-45E9-8C53-172F0343528A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "usefull-functions", "000-usefull-functions\usefull-functions.csproj", "{6D53D2F4-16AC-4F58-9776-2D7043A56F71}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "usefull-functions", "000-usefull-functions\usefull-functions.csproj", "{6D53D2F4-16AC-4F58-9776-2D7043A56F71}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

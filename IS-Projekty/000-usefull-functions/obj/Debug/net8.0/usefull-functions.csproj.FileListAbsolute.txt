@@ -1,5 +1,0 @@
-C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\000-usefull-functions\obj\Debug\net8.0\usefull-functions.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\000-usefull-functions\obj\Debug\net8.0\usefull-functions.AssemblyInfoInputs.cache
-C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\000-usefull-functions\obj\Debug\net8.0\usefull-functions.AssemblyInfo.cs
-C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\000-usefull-functions\obj\Debug\net8.0\usefull-functions.csproj.CoreCompileInputs.cache
-C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\000-usefull-functions\obj\Debug\net8.0\usefull-functions.sourcelink.json

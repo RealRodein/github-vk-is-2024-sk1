@@ -1,6 +1,4 @@
-﻿using System.ComponentModel;
-using System.Numerics;
-using System.Reflection.Metadata.Ecma335;
+﻿using System.Collections;
 using usefull_functions;
 
 namespace _002_app2_soucet_cifer
