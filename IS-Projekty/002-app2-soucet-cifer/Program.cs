@@ -1,0 +1,78 @@
+﻿using System.ComponentModel;
+using System.Numerics;
+using System.Reflection.Metadata.Ecma335;
+
+namespace _002_app2_soucet_cifer
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            String input;
+            String cont;
+            int num_sum = 0;
+            int num_quant = 1;
+
+           
+            do{
+                num_sum = 0;
+                num_quant = 1;
+
+                Console.Clear();
+                Console.WriteLine("Zadávej čísla:");
+                do
+                {
+                    input = Console.ReadLine();
+                    if (is_parseable(input))
+                    {
+                        num_sum += numeric_sum(int.Parse(input));
+                        num_quant *= numeric_quant(int.Parse(input));
+                    }
+                    else break;
+
+                } while (true);
+
+                Console.WriteLine("result for numeric sum is: " + num_sum);
+                Console.WriteLine("result for numeric quant is: " + num_quant);
+                Console.WriteLine("continue?");
+                cont = Console.ReadLine();
+
+            } while (cont == "Y" || cont == "y");
+        }
+
+        public static Boolean is_parseable(string S) {
+            Boolean result = true;
+            try
+            {
+                int temp = int.Parse(S);
+            }
+            catch (Exception)
+            {
+                result = false;
+            }
+            return result;
+        }
+
+        public static int numeric_sum(int A)
+        {
+            int result = 0;
+            while (A != 0)
+            {
+                result += A % 10;
+                A /= 10;
+            }
+            return result;
+        }
+
+        public static int numeric_quant(int A)
+        {
+            int result = 1;
+            while (A != 0)
+            {
+                result *= A % 10;
+                A /= 10;
+            }
+            return result;
+        }
+    }
+}
