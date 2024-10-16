@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("usefull-functions")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eeed7930811de3205a56f0052cc6688a1003bd1f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0509786619f562f61337175258687af0647fe432")]
 [assembly: System.Reflection.AssemblyProductAttribute("usefull-functions")]
 [assembly: System.Reflection.AssemblyTitleAttribute("usefull-functions")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

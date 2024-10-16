@@ -1,6 +1,7 @@
 ﻿using System.ComponentModel;
 using System.Numerics;
 using System.Reflection.Metadata.Ecma335;
+using usefull_functions;
 
 namespace _002_app2_soucet_cifer
 {
@@ -23,10 +24,10 @@ namespace _002_app2_soucet_cifer
                 do
                 {
                     input = Console.ReadLine();
-                    if (is_parseable(input))
+                    if (Functions.is_parseable(input))
                     {
-                        num_sum += numeric_sum(int.Parse(input));
-                        num_quant *= numeric_quant(int.Parse(input));
+                        num_sum += Functions.numeric_sum(int.Parse(input));
+                        num_quant *= Functions.numeric_quant(int.Parse(input));
                     }
                     else break;
 
@@ -38,41 +39,6 @@ namespace _002_app2_soucet_cifer
                 cont = Console.ReadLine();
 
             } while (cont == "Y" || cont == "y");
-        }
-
-        public static Boolean is_parseable(string S) {
-            Boolean result = true;
-            try
-            {
-                int temp = int.Parse(S);
-            }
-            catch (Exception)
-            {
-                result = false;
-            }
-            return result;
-        }
-
-        public static int numeric_sum(int A)
-        {
-            int result = 0;
-            while (A != 0)
-            {
-                result += A % 10;
-                A /= 10;
-            }
-            return result;
-        }
-
-        public static int numeric_quant(int A)
-        {
-            int result = 1;
-            while (A != 0)
-            {
-                result *= A % 10;
-                A /= 10;
-            }
-            return result;
         }
     }
 }

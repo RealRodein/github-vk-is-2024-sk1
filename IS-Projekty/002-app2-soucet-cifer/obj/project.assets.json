@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "usefull-functions/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/usefull-functions.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/usefull-functions.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "usefull-functions/1.0.0": {
+      "type": "project",
+      "path": "../000-usefull-functions/usefull-functions.csproj",
+      "msbuildProject": "../000-usefull-functions/usefull-functions.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "usefull-functions >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\rodein\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\rodein\\OneDrive\\codes\\c#\\github-vk-is-2024-sk1\\IS-Projekty\\000-usefull-functions\\usefull-functions.csproj": {
+              "projectPath": "C:\\Users\\rodein\\OneDrive\\codes\\c#\\github-vk-is-2024-sk1\\IS-Projekty\\000-usefull-functions\\usefull-functions.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

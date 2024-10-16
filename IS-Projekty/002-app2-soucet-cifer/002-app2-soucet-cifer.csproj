@@ -8,4 +8,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\000-usefull-functions\usefull-functions.csproj" />
+  </ItemGroup>
+
 </Project>

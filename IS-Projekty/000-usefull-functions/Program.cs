@@ -1,6 +1,6 @@
 ﻿namespace usefull_functions
 {
-    internal class Program
+    public class Functions
     {
         public static Boolean is_parseable(string S)
         {
