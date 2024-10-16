@@ -3,3 +3,13 @@ C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\003-app3-vyp
 C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\003-app3-vypis-obrazce\obj\Debug\net8.0\003-app3-vypis-obrazce.AssemblyInfo.cs
 C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\003-app3-vypis-obrazce\obj\Debug\net8.0\003-app3-vypis-obrazce.csproj.CoreCompileInputs.cache
 C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\003-app3-vypis-obrazce\obj\Debug\net8.0\003-app3-vypis-obrazce.sourcelink.json
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\003-app3-vypis-obrazce\bin\Debug\net8.0\003-app3-vypis-obrazce.exe
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\003-app3-vypis-obrazce\bin\Debug\net8.0\003-app3-vypis-obrazce.deps.json
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\003-app3-vypis-obrazce\bin\Debug\net8.0\003-app3-vypis-obrazce.runtimeconfig.json
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\003-app3-vypis-obrazce\bin\Debug\net8.0\003-app3-vypis-obrazce.dll
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\003-app3-vypis-obrazce\bin\Debug\net8.0\003-app3-vypis-obrazce.pdb
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\003-app3-vypis-obrazce\obj\Debug\net8.0\003-app3-vypis-obrazce.dll
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\003-app3-vypis-obrazce\obj\Debug\net8.0\refint\003-app3-vypis-obrazce.dll
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\003-app3-vypis-obrazce\obj\Debug\net8.0\003-app3-vypis-obrazce.pdb
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\003-app3-vypis-obrazce\obj\Debug\net8.0\003-app3-vypis-obrazce.genruntimeconfig.cache
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\003-app3-vypis-obrazce\obj\Debug\net8.0\ref\003-app3-vypis-obrazce.dll
