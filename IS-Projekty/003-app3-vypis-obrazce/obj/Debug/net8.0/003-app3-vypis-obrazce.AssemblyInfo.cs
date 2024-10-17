@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("003-app3-vypis-obrazce")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c8e5d36caf842ee281c40adff34d476149cd59e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67da58a798954dba4eb754dc13765659a34f5c8f")]
 [assembly: System.Reflection.AssemblyProductAttribute("003-app3-vypis-obrazce")]
 [assembly: System.Reflection.AssemblyTitleAttribute("003-app3-vypis-obrazce")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

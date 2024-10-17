@@ -11,6 +11,7 @@ namespace _003_app3_vypis_obrazce
             int tria_y;
             double tria_z;
 
+            /*
             Console.WriteLine("Zadej hodnoty pro obdélník a,b");
             rect_a = int.Parse(Console.ReadLine());
             rect_b = int.Parse(Console.ReadLine());
@@ -26,7 +27,8 @@ namespace _003_app3_vypis_obrazce
                 Console.WriteLine();
             }
             Console.ReadKey();
-            Console.Clear();
+            Console.Clear(); 
+            */
 
             Console.WriteLine("Zadej hodnoty pro trojuhelník x,y");
             tria_x = int.Parse(Console.ReadLine());
@@ -34,22 +36,25 @@ namespace _003_app3_vypis_obrazce
             tria_z = Math.Sqrt(tria_x * tria_x + tria_y * tria_y);
 
 
-            for (double i = 0; i < tria_x; i++)
+            for (int i = 0; i < tria_x; i++)
             {
-                Console.Write("    ");
-                for (int j = (int)tria_z; j > 0; j++)
+                for (int j = 0; j < tria_y; j++)
                 {
-                    Console.Write("██");
+                    for (int k = 0; k <= tria_z; k++)
+                    {
+                        if (k <= j && k <= i)
+                        {
+                            Console.Write("*");
+                        }
+                        else
+                        {
+                            Console.Write(" ");
+                        }
+                    }
+                   
                 }
                 Console.WriteLine();
             }
-
-            Console.Write("    ");
-            for (int i = 0; (i < tria_y); i++)
-            {
-                Console.Write("██");
-            }
-            Console.ReadKey();
 
         }
     }
