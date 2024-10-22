@@ -1,0 +1,15 @@
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\usefull-functions\obj\Debug\net8.0\usefull-functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\usefull-functions\obj\Debug\net8.0\usefull-functions.AssemblyInfoInputs.cache
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\usefull-functions\obj\Debug\net8.0\usefull-functions.AssemblyInfo.cs
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\usefull-functions\obj\Debug\net8.0\usefull-functions.csproj.CoreCompileInputs.cache
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\usefull-functions\obj\Debug\net8.0\usefull-functions.sourcelink.json
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\usefull-functions\bin\Debug\net8.0\usefull-functions.exe
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\usefull-functions\bin\Debug\net8.0\usefull-functions.deps.json
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\usefull-functions\bin\Debug\net8.0\usefull-functions.runtimeconfig.json
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\usefull-functions\bin\Debug\net8.0\usefull-functions.dll
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\usefull-functions\bin\Debug\net8.0\usefull-functions.pdb
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\usefull-functions\obj\Debug\net8.0\usefull-functions.dll
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\usefull-functions\obj\Debug\net8.0\refint\usefull-functions.dll
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\usefull-functions\obj\Debug\net8.0\usefull-functions.pdb
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\usefull-functions\obj\Debug\net8.0\usefull-functions.genruntimeconfig.cache
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\usefull-functions\obj\Debug\net8.0\ref\usefull-functions.dll
