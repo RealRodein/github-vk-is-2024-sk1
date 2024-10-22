@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "001-app1-vypis-rady", "001-app1-vypis-rady\001-app1-vypis-rady.csproj", "{BD441A5E-003F-45EE-960C-83327B34E54C}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "usefull-functions", "usefull-functions\usefull-functions.csproj", "{87F7F839-6968-45E2-A920-82EECBF520B1}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002-app2-soucet-cifer", "002-app2-soucet-cifer\002-app2-soucet-cifer.csproj", "{BB24455F-5113-4958-8921-367BD00F98C1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003b-vypis-obrazce", "003b-vypis-obrazce\003b-vypis-obrazce.csproj", "{6B3CE67B-A426-4216-8ED1-95853DEC7A79}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003-app3-vypis-obrazce", "003-app3-vypis-obrazce\003-app3-vypis-obrazce.csproj", "{0E6FE676-2937-412B-8C1D-5CCFD7C418CE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001-vypis-rady", "001-vypis-rady\001-vypis-rady.csproj", "{EC94EEB9-E3AD-4577-9011-E8D1D9F24F34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002-soucet-cifer", "002-soucet-cifer\002-soucet-cifer.csproj", "{1860F58E-DD1D-4AE9-AE33-EA9EDA6646E8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,22 +17,22 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{BD441A5E-003F-45EE-960C-83327B34E54C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BD441A5E-003F-45EE-960C-83327B34E54C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BD441A5E-003F-45EE-960C-83327B34E54C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BD441A5E-003F-45EE-960C-83327B34E54C}.Release|Any CPU.Build.0 = Release|Any CPU
 		{87F7F839-6968-45E2-A920-82EECBF520B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{87F7F839-6968-45E2-A920-82EECBF520B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{87F7F839-6968-45E2-A920-82EECBF520B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{87F7F839-6968-45E2-A920-82EECBF520B1}.Release|Any CPU.Build.0 = Release|Any CPU
-		{BB24455F-5113-4958-8921-367BD00F98C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BB24455F-5113-4958-8921-367BD00F98C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BB24455F-5113-4958-8921-367BD00F98C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BB24455F-5113-4958-8921-367BD00F98C1}.Release|Any CPU.Build.0 = Release|Any CPU
-		{0E6FE676-2937-412B-8C1D-5CCFD7C418CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0E6FE676-2937-412B-8C1D-5CCFD7C418CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0E6FE676-2937-412B-8C1D-5CCFD7C418CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0E6FE676-2937-412B-8C1D-5CCFD7C418CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B3CE67B-A426-4216-8ED1-95853DEC7A79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B3CE67B-A426-4216-8ED1-95853DEC7A79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B3CE67B-A426-4216-8ED1-95853DEC7A79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B3CE67B-A426-4216-8ED1-95853DEC7A79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC94EEB9-E3AD-4577-9011-E8D1D9F24F34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC94EEB9-E3AD-4577-9011-E8D1D9F24F34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC94EEB9-E3AD-4577-9011-E8D1D9F24F34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC94EEB9-E3AD-4577-9011-E8D1D9F24F34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1860F58E-DD1D-4AE9-AE33-EA9EDA6646E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1860F58E-DD1D-4AE9-AE33-EA9EDA6646E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1860F58E-DD1D-4AE9-AE33-EA9EDA6646E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1860F58E-DD1D-4AE9-AE33-EA9EDA6646E8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
