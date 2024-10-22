@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rodein\\OneDrive\\codes\\c#\\github-vk-is-2024-sk1\\IS-Projekty\\000-usefull-functions\\usefull-functions.csproj": {}
+    "C:\\Users\\rodein\\OneDrive\\codes\\c#\\github-vk-is-2024-sk1\\IS-Projekty\\001-app1-vypis-rady\\001-vypis-rady.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rodein\\OneDrive\\codes\\c#\\github-vk-is-2024-sk1\\IS-Projekty\\000-usefull-functions\\usefull-functions.csproj": {
+    "C:\\Users\\rodein\\OneDrive\\codes\\c#\\github-vk-is-2024-sk1\\IS-Projekty\\001-app1-vypis-rady\\001-vypis-rady.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rodein\\OneDrive\\codes\\c#\\github-vk-is-2024-sk1\\IS-Projekty\\000-usefull-functions\\usefull-functions.csproj",
-        "projectName": "usefull-functions",
-        "projectPath": "C:\\Users\\rodein\\OneDrive\\codes\\c#\\github-vk-is-2024-sk1\\IS-Projekty\\000-usefull-functions\\usefull-functions.csproj",
+        "projectUniqueName": "C:\\Users\\rodein\\OneDrive\\codes\\c#\\github-vk-is-2024-sk1\\IS-Projekty\\001-app1-vypis-rady\\001-vypis-rady.csproj",
+        "projectName": "001-vypis-rady",
+        "projectPath": "C:\\Users\\rodein\\OneDrive\\codes\\c#\\github-vk-is-2024-sk1\\IS-Projekty\\001-app1-vypis-rady\\001-vypis-rady.csproj",
         "packagesPath": "C:\\Users\\rodein\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rodein\\OneDrive\\codes\\c#\\github-vk-is-2024-sk1\\IS-Projekty\\000-usefull-functions\\obj\\",
+        "outputPath": "C:\\Users\\rodein\\OneDrive\\codes\\c#\\github-vk-is-2024-sk1\\IS-Projekty\\001-app1-vypis-rady\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rodein\\AppData\\Roaming\\NuGet\\NuGet.Config",

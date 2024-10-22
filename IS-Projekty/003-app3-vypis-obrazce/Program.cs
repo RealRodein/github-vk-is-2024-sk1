@@ -11,9 +11,10 @@ namespace _003_app3_vypis_obrazce
             int rect_b;
             int tria_x;
             int tria_y;
-            double tria_z=0;
+            double tria_z;
+            int temp;
 
-            /*
+            
             Console.WriteLine("Zadej hodnoty pro obdélník a,b");
             rect_a = int.Parse(Console.ReadLine());
             rect_b = int.Parse(Console.ReadLine());
@@ -30,40 +31,28 @@ namespace _003_app3_vypis_obrazce
             }
             Console.ReadKey();
             Console.Clear(); 
-            */
+            
 
             Console.WriteLine("Zadej hodnoty pro trojuhelník x,y");
 
             tria_x = int.Parse(Console.ReadLine());
             tria_y = int.Parse(Console.ReadLine());
+            tria_z = (double)tria_y / tria_x;
 
-            if (tria_x < tria_y && tria_x != 0)
+            for (int i = 1; i <= tria_x; i++) 
             {
-                tria_z = Functions.round_to_half(tria_y / tria_x-1);
-            }
-            else if (tria_x > tria_y && tria_y != 0)
-            {
-                tria_z = Functions.round_to_half(tria_x / tria_y - 1);
-            }
-            else { Console.WriteLine("špatná kombinace čísel"); }
+                Console.Write("    ");
+                temp = (int)Math.Round(i * tria_z);
 
-            double temp = tria_z;
-
-
-            for (int i = 0; i < tria_x; i++)
-            {
-                if (i == 0) { Console.Write("██"); }
-                else
+                for (int j = 0; j < temp; j++)
                 {
-                    for (int j = 0; j < 2*tria_z; j++)
-                    {
-                        Console.Write("█");
-                    }
+                    Console.Write("██");
                 }
 
                 Console.WriteLine();
-                tria_z += temp;
             }
+
+            Console.ReadKey();
 
         }
     }

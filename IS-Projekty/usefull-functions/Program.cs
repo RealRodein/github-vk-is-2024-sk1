@@ -1,5 +1,4 @@
 ﻿using System;
-
 namespace usefull_functions
 {
     public class Functions

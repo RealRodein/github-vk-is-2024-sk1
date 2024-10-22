@@ -5,11 +5,11 @@ VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "001-app1-vypis-rady", "001-app1-vypis-rady\001-app1-vypis-rady.csproj", "{BD441A5E-003F-45EE-960C-83327B34E54C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "003-app3-vypis-obrazce", "003-app3-vypis-obrazce\003-app3-vypis-obrazce.csproj", "{47509545-1A09-45E9-8C53-172F0343528A}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "usefull-functions", "usefull-functions\usefull-functions.csproj", "{87F7F839-6968-45E2-A920-82EECBF520B1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002-app2-soucet-cifer", "002-app2-soucet-cifer\002-app2-soucet-cifer.csproj", "{BB24455F-5113-4958-8921-367BD00F98C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002-app2-soucet-cifer", "002-app2-soucet-cifer\002-app2-soucet-cifer.csproj", "{BB24455F-5113-4958-8921-367BD00F98C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003-app3-vypis-obrazce", "003-app3-vypis-obrazce\003-app3-vypis-obrazce.csproj", "{0E6FE676-2937-412B-8C1D-5CCFD7C418CE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,10 +21,6 @@ Global
 		{BD441A5E-003F-45EE-960C-83327B34E54C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD441A5E-003F-45EE-960C-83327B34E54C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD441A5E-003F-45EE-960C-83327B34E54C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{47509545-1A09-45E9-8C53-172F0343528A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{47509545-1A09-45E9-8C53-172F0343528A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{47509545-1A09-45E9-8C53-172F0343528A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{47509545-1A09-45E9-8C53-172F0343528A}.Release|Any CPU.Build.0 = Release|Any CPU
 		{87F7F839-6968-45E2-A920-82EECBF520B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{87F7F839-6968-45E2-A920-82EECBF520B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{87F7F839-6968-45E2-A920-82EECBF520B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -33,6 +29,10 @@ Global
 		{BB24455F-5113-4958-8921-367BD00F98C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB24455F-5113-4958-8921-367BD00F98C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB24455F-5113-4958-8921-367BD00F98C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E6FE676-2937-412B-8C1D-5CCFD7C418CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E6FE676-2937-412B-8C1D-5CCFD7C418CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E6FE676-2937-412B-8C1D-5CCFD7C418CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E6FE676-2937-412B-8C1D-5CCFD7C418CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

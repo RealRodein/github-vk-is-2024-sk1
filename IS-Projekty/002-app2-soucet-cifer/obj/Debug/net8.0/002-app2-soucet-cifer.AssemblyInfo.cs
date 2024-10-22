@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("002-app2-soucet-cifer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67da58a798954dba4eb754dc13765659a34f5c8f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+661ae0c708e90e99888470791fc96b3b3320f7ce")]
 [assembly: System.Reflection.AssemblyProductAttribute("002-app2-soucet-cifer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("002-app2-soucet-cifer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

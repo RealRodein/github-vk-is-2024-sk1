@@ -13,11 +13,24 @@
         "runtime": {
           "003-app3-vypis-obrazce.dll": {}
         }
+      },
+      "usefull-functions/1.0.0": {
+        "runtime": {
+          "usefull-functions.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
   "libraries": {
     "003-app3-vypis-obrazce/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "usefull-functions/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

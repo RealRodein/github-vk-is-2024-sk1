@@ -17,8 +17,8 @@
   "libraries": {
     "usefull-functions/1.0.0": {
       "type": "project",
-      "path": "../000-usefull-functions/usefull-functions.csproj",
-      "msbuildProject": "../000-usefull-functions/usefull-functions.csproj"
+      "path": "../usefull-functions/usefull-functions.csproj",
+      "msbuildProject": "../usefull-functions/usefull-functions.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -32,9 +32,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rodein\\OneDrive\\codes\\c#\\github-vk-is-2024-sk1\\IS-Projekty\\003-app3-vypis-obrazce\\003-app3-vypis-obrazce.csproj",
-      "projectName": "003-app3-vypis-obrazce",
-      "projectPath": "C:\\Users\\rodein\\OneDrive\\codes\\c#\\github-vk-is-2024-sk1\\IS-Projekty\\003-app3-vypis-obrazce\\003-app3-vypis-obrazce.csproj",
+      "projectUniqueName": "C:\\Users\\rodein\\OneDrive\\codes\\c#\\github-vk-is-2024-sk1\\IS-Projekty\\003-app3-vypis-obrazce\\003a-vypis-obrazce.csproj",
+      "projectName": "003a-vypis-obrazce",
+      "projectPath": "C:\\Users\\rodein\\OneDrive\\codes\\c#\\github-vk-is-2024-sk1\\IS-Projekty\\003-app3-vypis-obrazce\\003a-vypis-obrazce.csproj",
       "packagesPath": "C:\\Users\\rodein\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\rodein\\OneDrive\\codes\\c#\\github-vk-is-2024-sk1\\IS-Projekty\\003-app3-vypis-obrazce\\obj\\",
       "projectStyle": "PackageReference",
@@ -53,9 +53,6 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\rodein\\OneDrive\\codes\\c#\\github-vk-is-2024-sk1\\IS-Projekty\\000-usefull-functions\\usefull-functions.csproj": {
-              "projectPath": "C:\\Users\\rodein\\OneDrive\\codes\\c#\\github-vk-is-2024-sk1\\IS-Projekty\\000-usefull-functions\\usefull-functions.csproj"
-            },
             "C:\\Users\\rodein\\OneDrive\\codes\\c#\\github-vk-is-2024-sk1\\IS-Projekty\\usefull-functions\\usefull-functions.csproj": {
               "projectPath": "C:\\Users\\rodein\\OneDrive\\codes\\c#\\github-vk-is-2024-sk1\\IS-Projekty\\usefull-functions\\usefull-functions.csproj"
             }

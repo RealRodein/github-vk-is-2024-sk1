@@ -32,9 +32,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rodein\\OneDrive\\codes\\c#\\github-vk-is-2024-sk1\\IS-Projekty\\002-app2-soucet-cifer\\002-app2-soucet-cifer.csproj",
-      "projectName": "002-app2-soucet-cifer",
-      "projectPath": "C:\\Users\\rodein\\OneDrive\\codes\\c#\\github-vk-is-2024-sk1\\IS-Projekty\\002-app2-soucet-cifer\\002-app2-soucet-cifer.csproj",
+      "projectUniqueName": "C:\\Users\\rodein\\OneDrive\\codes\\c#\\github-vk-is-2024-sk1\\IS-Projekty\\002-app2-soucet-cifer\\002-soucet-cifer.csproj",
+      "projectName": "002-soucet-cifer",
+      "projectPath": "C:\\Users\\rodein\\OneDrive\\codes\\c#\\github-vk-is-2024-sk1\\IS-Projekty\\002-app2-soucet-cifer\\002-soucet-cifer.csproj",
       "packagesPath": "C:\\Users\\rodein\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\rodein\\OneDrive\\codes\\c#\\github-vk-is-2024-sk1\\IS-Projekty\\002-app2-soucet-cifer\\obj\\",
       "projectStyle": "PackageReference",
