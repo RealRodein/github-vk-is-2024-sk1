@@ -26,7 +26,7 @@ namespace _003b_vypis_obrazce
                     Console.Write("██");
                     Thread.Sleep(10);
                 }
-
+                //ahoj
                 Console.WriteLine();
             }
 
