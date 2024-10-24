@@ -1,0 +1,15 @@
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\003b-vypis-obrazce\bin\Debug\net8.0\003b-vypis-obrazce.exe
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\003b-vypis-obrazce\bin\Debug\net8.0\003b-vypis-obrazce.deps.json
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\003b-vypis-obrazce\bin\Debug\net8.0\003b-vypis-obrazce.runtimeconfig.json
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\003b-vypis-obrazce\bin\Debug\net8.0\003b-vypis-obrazce.dll
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\003b-vypis-obrazce\bin\Debug\net8.0\003b-vypis-obrazce.pdb
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\003b-vypis-obrazce\obj\Debug\net8.0\003b-vypis-obrazce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\003b-vypis-obrazce\obj\Debug\net8.0\003b-vypis-obrazce.AssemblyInfoInputs.cache
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\003b-vypis-obrazce\obj\Debug\net8.0\003b-vypis-obrazce.AssemblyInfo.cs
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\003b-vypis-obrazce\obj\Debug\net8.0\003b-vypis-obrazce.csproj.CoreCompileInputs.cache
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\003b-vypis-obrazce\obj\Debug\net8.0\003b-vypis-obrazce.sourcelink.json
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\003b-vypis-obrazce\obj\Debug\net8.0\003b-vypis-obrazce.dll
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\003b-vypis-obrazce\obj\Debug\net8.0\refint\003b-vypis-obrazce.dll
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\003b-vypis-obrazce\obj\Debug\net8.0\003b-vypis-obrazce.pdb
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\003b-vypis-obrazce\obj\Debug\net8.0\003b-vypis-obrazce.genruntimeconfig.cache
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\003b-vypis-obrazce\obj\Debug\net8.0\ref\003b-vypis-obrazce.dll

@@ -1,4 +1,5 @@
-﻿namespace _003b_vypis_obrazce
+﻿using System.Threading;
+namespace _003b_vypis_obrazce
 {
     internal class Program
     {
@@ -23,6 +24,7 @@
                 for (int j = 0; j < temp; j++)
                 {
                     Console.Write("██");
+                    Thread.Sleep(10);
                 }
 
                 Console.WriteLine();

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("004-nahodne-pole")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a9f2a03f2488a4ee24d59c612c42464b8da50f9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c8ee4125a64fa5723a6df368f8fdd7406e49109")]
 [assembly: System.Reflection.AssemblyProductAttribute("004-nahodne-pole")]
 [assembly: System.Reflection.AssemblyTitleAttribute("004-nahodne-pole")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
