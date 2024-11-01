@@ -10,7 +10,7 @@ namespace _003b_vypis_obrazce
             double tria_z;
             int temp;
 
-            Console.WriteLine("Zadej hodnoty pro troffdjuhelník x,y");
+            Console.WriteLine("Zadej hodnoty pro trojuhelník x,y");
 
             tria_x = int.Parse(Console.ReadLine());
             tria_y = int.Parse(Console.ReadLine());

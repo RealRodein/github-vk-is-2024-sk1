@@ -51,7 +51,7 @@ namespace _001_vypis_rady
             } while (again == "Y" || again == "y");
 
 
-
+            if(first == goal || goal == step)
 
         }
     }
