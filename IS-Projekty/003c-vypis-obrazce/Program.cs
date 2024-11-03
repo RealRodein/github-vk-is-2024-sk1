@@ -19,7 +19,7 @@ namespace _003c_vypis_obrazce
                 {
                     Console.Write("zadejte delku obrazce: ");
                 }
-                Console.Write("zadejte cislo obrazku.\n(aktualne zhotovene jsou 1,4,5,6,7,10,11,12,20): ");
+                Console.Write("zadejte cislo obrazku.\n(aktualne zhotovene jsou 1,4,5,6,7,10,11,12,13,14,20): ");
                 while (!int.TryParse(Console.ReadLine(), out select))
                 {
                     Console.Write("zadejte cislo obrazku: ");
@@ -37,10 +37,15 @@ namespace _003c_vypis_obrazce
         public static bool[,] pic_select(int size, int num)
         {
             bool[,] result = new bool[size, size];
-            double temp = result.GetLength(0) / 2;
-            int half = (int)Math.Round(temp);
+            double half = result.GetLength(0) / 2;
+            int int_half = (int)Math.Round(half);
+            int lower_half = (int)Math.Floor(half);
+            int upper_half = (int)Math.Ceiling(half);
             int iswitch = 0;
             int cont = 1;
+            
+
+
             do
             {
                 cont = 1;
@@ -57,11 +62,11 @@ namespace _003c_vypis_obrazce
                                     result[x, result.GetLength(1) - y - 1] = true;
 
                                 }
-                                else if (y == half)
+                                else if (y == int_half)
                                 {
                                     result[x, y] = true;
                                 }
-                                else if (x == half)
+                                else if (x == int_half)
                                 {
                                     result[x, y] = true;
                                 }
@@ -212,6 +217,39 @@ namespace _003c_vypis_obrazce
                                 }
                             }
                         }
+                        break;
+                    case 13:
+                        half = result.GetLength(1)/2;
+                        for (int y = 0; y < result.GetLength(1); y++)
+                        {
+                            if (y <= half)
+                            {
+                                result[0, y] = true;
+                                result[lower_half, y] = true;
+                            }
+                            else if(y >= half){
+                                result[result.GetLength(1) - 1, y] = true;
+                                result[upper_half, y] = true;
+                            }
+
+
+                            for (int x = 0; x < result.GetLength(0); x++)
+                            {
+                                if (x <= half)
+                                {
+                                    result[x, 0] = true;
+                                    result[x, lower_half] = true;
+                                }
+                                else if (x >= half)
+                                {
+                                    result[x,result.GetLength(1) - 1] = true;
+                                    result[x, upper_half] = true;
+                                }
+
+                            }
+                        }
+                        result = Functions.rotate_array_90(result);
+                        result = Functions.flip_array(result);
                         break;
                     case 14:
                         for (int y = 0; y < result.GetLength(1); y++)
