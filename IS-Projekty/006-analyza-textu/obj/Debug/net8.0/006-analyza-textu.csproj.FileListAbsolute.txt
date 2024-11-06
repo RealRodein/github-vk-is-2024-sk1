@@ -1,0 +1,15 @@
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\006-analyza-textu\obj\Debug\net8.0\006-analyza-textu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\006-analyza-textu\obj\Debug\net8.0\006-analyza-textu.AssemblyInfoInputs.cache
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\006-analyza-textu\obj\Debug\net8.0\006-analyza-textu.AssemblyInfo.cs
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\006-analyza-textu\obj\Debug\net8.0\006-analyza-textu.csproj.CoreCompileInputs.cache
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\006-analyza-textu\obj\Debug\net8.0\006-analyza-textu.sourcelink.json
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\006-analyza-textu\bin\Debug\net8.0\006-analyza-textu.exe
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\006-analyza-textu\bin\Debug\net8.0\006-analyza-textu.deps.json
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\006-analyza-textu\bin\Debug\net8.0\006-analyza-textu.runtimeconfig.json
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\006-analyza-textu\bin\Debug\net8.0\006-analyza-textu.dll
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\006-analyza-textu\bin\Debug\net8.0\006-analyza-textu.pdb
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\006-analyza-textu\obj\Debug\net8.0\006-analyza-textu.dll
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\006-analyza-textu\obj\Debug\net8.0\refint\006-analyza-textu.dll
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\006-analyza-textu\obj\Debug\net8.0\006-analyza-textu.pdb
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\006-analyza-textu\obj\Debug\net8.0\006-analyza-textu.genruntimeconfig.cache
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\006-analyza-textu\obj\Debug\net8.0\ref\006-analyza-textu.dll
