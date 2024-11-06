@@ -123,6 +123,90 @@ namespace usefull_functions
             }
             return array;
         }
+
+        public static int[] dump_sort_array(int[] array)
+        {
+            int temp;
+            int[] result = (int[])array.Clone();
+
+            for (int i = 0; i < result.Length - 1; i++)
+            {
+                for (int j = 0; j < result.Length - 1 - i; j++)
+                {
+                    if (result[j] > result[j + 1])
+                    {
+                        temp = result[j];
+                        result[j] = result[j + 1];
+                        result[j + 1] = temp;
+                    }
+                }
+            }
+            return result;
+        }
+
+        public static int array_return_max(int[] array)
+        {
+            int result = array[0];
+            foreach(int i in array)
+            {
+                if(i > result)
+                {
+                    result = i;
+                }
+            }
+            return result;
+        }
+        public static int array_return_min(int[] array)
+        {
+            int result = array[0];
+            foreach (int i in array)
+            {
+                if (i < result)
+                {
+                    result = i;
+                }
+            }
+            return result;
+        }
+
+        public static int array_return_max_pos(int[] array)
+        {
+            int result =0;
+            int temp = array[0];
+            for (int i = 0; i < array.Length-1; i++){
+                if (array[i+1] > temp)
+                {
+                    temp = array[i + 1];
+                    result = i+1;
+                }
+            }
+            return result;
+        }
+
+        public static int array_return_min_pos(int[] array)
+        {
+            int result = 0;
+            int temp = array[0];
+            for (int i = 0; i < array.Length - 1; i++)
+            {
+                if (array[i + 1] < temp)
+                {
+                    temp = array[i + 1];
+                    result = i + 1;
+                }
+            }
+            return result;
+        }
+
+        public static void array_out(int[] array)
+        {
+            for (int i = 0; i < array.Length; i++)
+            {
+                Console.Write(array[i] + " ");  
+            }
+            Console.WriteLine();
+        }
+        
         #endregion
 
         #region ARRAYS-BOOL
