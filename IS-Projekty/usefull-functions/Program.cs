@@ -72,7 +72,7 @@ namespace usefull_functions
 
             for (int i = 0; i < array.Length; i++)
             {
-                array[i] = random.Next(low, high);
+                array[i] = random.Next(low, high+1);
             }
 
             return array;
@@ -169,30 +169,74 @@ namespace usefull_functions
             return result;
         }
 
-        public static int array_return_max_pos(int[] array)
+        public static int[] array_max_pos(int[] array)
         {
-            int result =0;
-            int temp = array[0];
-            for (int i = 0; i < array.Length-1; i++){
-                if (array[i+1] > temp)
+            int[] result =new int[array_max_count(array)];
+            int max = array_return_max(array);
+            int index = 0;
+
+            for (int i = 0; i < array.Length; i++){
+                if (array[i] == max)
                 {
-                    temp = array[i + 1];
-                    result = i+1;
+                    result[index] = i;
+                    index++;
                 }
             }
             return result;
         }
 
-        public static int array_return_min_pos(int[] array)
+        public static int[] array_min_pos(int[] array)
         {
-            int result = 0;
-            int temp = array[0];
-            for (int i = 0; i < array.Length - 1; i++)
+            int[] result = new int[array_min_count(array)];
+            int min = array_return_min(array);
+            int index = 0;
+
+            for (int i = 0; i < array.Length; i++)
             {
-                if (array[i + 1] < temp)
+                if (array[i] == min)
                 {
-                    temp = array[i + 1];
-                    result = i + 1;
+                    result[index] = i;
+                    index++;
+                }
+            }
+            return result;
+        }
+
+        public static int array_max_count(int[] array)
+        {
+            int max = array[0];
+            int result = 1;
+
+            foreach (int i in array)
+            {
+                if (max < i)
+                {
+                    max = i;
+                    result = 1;
+                }
+                else if (max == i)
+                {
+                    result++;
+                }
+            }
+            return result;
+        }
+
+        public static int array_min_count(int[] array)
+        {
+            int min = array[0];
+            int result = 1;
+
+            foreach (int i in array)
+            {
+                if (min > i)
+                {
+                    min = i;
+                    result = 1;
+                }
+                else if (min == i)
+                {
+                    result++;
                 }
             }
             return result;
