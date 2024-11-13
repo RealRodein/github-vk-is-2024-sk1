@@ -142,7 +142,7 @@ namespace usefull_functions
                 }
             }
             return result;
-        }
+        } //bubble-sort
 
         public static int array_return_max(int[] array)
         {
