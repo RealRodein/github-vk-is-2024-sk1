@@ -275,7 +275,7 @@ namespace usefull_functions
             return result;
         }
 
-        public static int[] array_reversion(int[] array)
+        public static int[] array_reversion(int[] array) //tady
         {
             int[] result = new int[array.Length];
 
