@@ -1,12 +1,16 @@
 ﻿using System;
 using System.ComponentModel;
 using System.Runtime.InteropServices;
+using System.Xml.XPath;
 namespace usefull_functions
 {
     public class Functions
     {
         public static void Main(String[] args) {
             // T E S T I N G   Z O N E
+            int[] array = random_array(5, 1, 100);
+            array_out(array);
+            array_out(shaker_sort(array));
 
 
 
@@ -72,7 +76,7 @@ namespace usefull_functions
 
             for (int i = 0; i < array.Length; i++)
             {
-                array[i] = random.Next(low, high+1);
+                array[i] = random.Next(low, high + 1);
             }
 
             return array;
@@ -124,7 +128,7 @@ namespace usefull_functions
             return array;
         }
 
-        public static int[] dump_sort_array(int[] array)
+        public static int[] dump_sort(int[] array)  //bubble-sort
         {
             int temp;
             int[] result = (int[])array.Clone();
@@ -142,14 +146,152 @@ namespace usefull_functions
                 }
             }
             return result;
-        } //bubble-sort
+        }
+
+        public static int[] selection_sort(int[] array)
+        {
+            int[] result = (int[])array.Clone();
+            int[] info = new int[2];
+            int temp;
+
+            for (int i = 0; i < result.Length; i++)
+            {
+                info = array_return_min(result, i);
+                if (result[i] > info[0])
+                {
+                    temp = result[i];
+                    result[i] = info[0];
+                    result[info[1]] = temp;
+                }
+            }
+            return result;
+        }
+
+        public static int[] insertion_sort(int[] array)
+        {
+            int[] result = (int[])array.Clone();
+
+            for (int i = 1; i < result.Length; i++)
+            {
+                int temp = result[i];
+                int j = i - 1;
+                while (j >= 0 && result[j] > temp)
+                {
+                    result[j + 1] = result[j];
+                    j--;
+                }
+                result[j + 1] = temp;
+            }
+            return result;
+        }
+
+        public static int[] shaker_sort(int[] array)
+        {
+            int[] result = (int[])array.Clone();
+            int temp;
+
+            for (int x = 0; x < result.Length / 2; x++)
+            {
+                for (int i = x; i < result.Length - x-1; i++)
+                {
+                    if (result[i] > result[i + 1])
+                    {
+                        temp = result[i];
+                        result[i] = result[i + 1];
+                        result[i + 1] = temp;
+                    }
+                }
+
+                for (int j = result.Length-x-2; j > x; j--)
+                {
+                    if (result[j] < result[j - 1])
+                    {
+                        temp = result[j];
+                        result[j] = result[j - 1];
+                        result[j - 1] = temp;
+                    }
+                }
+            }
+            return result;
+        }
+
+        public static int[] comb_sort(int[] array)
+        {
+            int[] result = (int[])array.Clone();
+            bool swapped = false;
+            int gap = result.Length;
+
+            while (gap != 1 || swapped)
+            {
+                gap = (int)(gap / 1.33);
+                if (gap < 1) gap = 1;
+
+                swapped = false;
+
+                for (int i = 0; i + gap < result.Length; i++)
+                {
+                    if (result[i] < result[i + gap])
+                    {
+                        int temp = result[i];
+                        result[i] = result[i + gap];
+                        result[i + gap] = temp;
+                        swapped = true;
+                    }
+                }
+            }
+
+            return result;
+        }
+
+        public static int[] shell_sort(int[] array)
+        {
+            int[] result = new int[array.Length];
+            int gap = result.Length / 2;
+
+            while (gap > 0)
+            {
+                for (int i = 0; i < result.Length - gap; i++)
+                {
+                    int j = i + gap;
+                    int temp = result[j];
+
+                    while (j >= gap && temp > result[j - gap])
+                    {
+                        result[j] = result[j - gap];
+                        j -= gap;
+                    }
+                    result[j] = temp;
+                }
+
+                if (gap == 2)
+                {
+                    gap = 1;
+                }
+                else
+                {
+                    gap = (int)(gap / 2.2);
+                }
+            }
+            return result;
+        }
+
+        public static int[] array_reversion(int[] array)
+        {
+            int[] result = new int[array.Length];
+
+            for (int i = 0; i < result.Length; i++)
+            {
+                result[i] = array[array.Length - 1 - i];
+            }
+            return result;
+        }
 
         public static int array_return_max(int[] array)
         {
             int result = array[0];
-            foreach(int i in array)
+            foreach (int i in array)
             {
-                if(i > result)
+                if (i > result)
                 {
                     result = i;
                 }
@@ -164,6 +306,38 @@ namespace usefull_functions
                 if (i < result)
                 {
                     result = i;
+                }
+            }
+            return result;
+        }
+        public static int[] array_return_max(int[] array, int n)
+        {
+            int[] result = new int[2];
+            result[0] = array[n];
+            result[1] = n;
+
+            for (int i = n; i < array.Length; i++)
+            {
+                if (array[i] > result[0])
+                {
+                    result[0] = array[i];
+                    result[1] = i;
+                }
+            }
+            return result;
+        }
+        public static int[] array_return_min(int[] array, int n)
+        {
+            int[] result = new int[2];
+            result[0] = array[n];
+            result[1] = n;
+
+            for (int i = n; i < array.Length; i++)
+            {
+                if (array[i] < result[0])
+                {
+                    result[0] = array[i];
+                    result[1] = i;
                 }
             }
             return result;
