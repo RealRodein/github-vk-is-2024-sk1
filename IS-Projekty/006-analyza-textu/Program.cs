@@ -9,7 +9,7 @@
             int samohlasky = 0;
             int souhlasky = 0;
             int cislic = 0;
-            int ostatnich = 0;
+            int ostatnich = 0; //test
 
             foreach (char c in to_analyze) {
                 if ("eyuioaěáíéúůEYUIOAÁÝÍÉÚŮ".Contains(c)) 
