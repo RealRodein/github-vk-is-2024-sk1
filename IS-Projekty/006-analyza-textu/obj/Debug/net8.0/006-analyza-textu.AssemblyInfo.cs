@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("006-analyza-textu")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e0d79b6d9ad3df7a4964cb46f8492e91bb315e32")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+38ab35d8889aa636f56bc23b03ad937d81e302c3")]
 [assembly: System.Reflection.AssemblyProductAttribute("006-analyza-textu")]
 [assembly: System.Reflection.AssemblyTitleAttribute("006-analyza-textu")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

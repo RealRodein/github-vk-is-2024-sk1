@@ -17,9 +17,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "004-nahodne-pole", "004-nah
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "003c-vypis-obrazce", "003c-vypis-obrazce\003c-vypis-obrazce.csproj", "{6A0FD31F-16BD-4004-841E-6739CD4D4AF1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005-max-min", "005-max-min\005-max-min.csproj", "{71FC3B23-DA43-480A-BFCB-AC15F878CAC0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "005-max-min", "005-max-min\005-max-min.csproj", "{71FC3B23-DA43-480A-BFCB-AC15F878CAC0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "006-analyza-textu", "006-analyza-textu\006-analyza-textu.csproj", "{C53E34F2-090C-40D2-B7A3-54AED64C78AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "006-analyza-textu", "006-analyza-textu\006-analyza-textu.csproj", "{C53E34F2-090C-40D2-B7A3-54AED64C78AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "010-konvergence", "010-konvergence\010-konvergence.csproj", "{EE5EDD2A-33DA-423B-A990-4FE3C66AAE6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "012-aritmeticka-posloupnost", "012-aritmeticka-posloupnost\012-aritmeticka-posloupnost.csproj", "{95F0D32C-7C0C-4766-AB70-24097603C330}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "011a-intervaly", "011a-intervaly\011a-intervaly.csproj", "{48ADB46F-0BC6-44D2-BED3-C99A503B1703}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "011b-intervaly", "011b-intervaly\011b-intervaly.csproj", "{40894D93-48D9-4ED0-89F2-D9BE51B74150}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +71,22 @@ Global
 		{C53E34F2-090C-40D2-B7A3-54AED64C78AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C53E34F2-090C-40D2-B7A3-54AED64C78AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C53E34F2-090C-40D2-B7A3-54AED64C78AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE5EDD2A-33DA-423B-A990-4FE3C66AAE6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE5EDD2A-33DA-423B-A990-4FE3C66AAE6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE5EDD2A-33DA-423B-A990-4FE3C66AAE6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE5EDD2A-33DA-423B-A990-4FE3C66AAE6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95F0D32C-7C0C-4766-AB70-24097603C330}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95F0D32C-7C0C-4766-AB70-24097603C330}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95F0D32C-7C0C-4766-AB70-24097603C330}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95F0D32C-7C0C-4766-AB70-24097603C330}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48ADB46F-0BC6-44D2-BED3-C99A503B1703}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48ADB46F-0BC6-44D2-BED3-C99A503B1703}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48ADB46F-0BC6-44D2-BED3-C99A503B1703}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48ADB46F-0BC6-44D2-BED3-C99A503B1703}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40894D93-48D9-4ED0-89F2-D9BE51B74150}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40894D93-48D9-4ED0-89F2-D9BE51B74150}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40894D93-48D9-4ED0-89F2-D9BE51B74150}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40894D93-48D9-4ED0-89F2-D9BE51B74150}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
