@@ -415,7 +415,16 @@ namespace usefull_functions
             }
             return result;
         }
+        public static int array_sum(int[] array)
+        {
+            int result = 0;
+            foreach (int i in array)
+            {
+                result += i;
+            }
 
+            return result;
+        }
         public static void array_out(int[] array)
         {
             for (int i = 0; i < array.Length; i++)
