@@ -5,22 +5,22 @@
         static void Main(string[] args)
         {
             Console.Write("zadej cislo v desitkove: ");
-            int decimal_num = int.Parse(Console.ReadLine());
+            uint decimal_num = uint.Parse(Console.ReadLine());
             Console.Write("zadej cilovou soustavu (max.:16): ");
-            int base_num = int.Parse(Console.ReadLine());
+            uint base_num = uint.Parse(Console.ReadLine());
 
             string vysledek = dec_to_base(decimal_num, base_num);
-            Console.WriteLine("Výsledek v cílové soustavě: " + vysledek);
+            Console.WriteLine("vysledek v {0} soustave: {1}", base_num, vysledek);
         }
 
-        static string dec_to_base(int num, int @base)
+        static string dec_to_base(uint num, uint @base)
         {
             if (num == 0) return "0";
 
             string result = "";
             while (num > 0)
             {
-                int temp = num % @base;
+                uint temp = num % @base;
                 result = (temp >= 10 ? ((char)('A' + temp - 10)).ToString() : temp.ToString()) + result;
                 num /= @base;
             }
