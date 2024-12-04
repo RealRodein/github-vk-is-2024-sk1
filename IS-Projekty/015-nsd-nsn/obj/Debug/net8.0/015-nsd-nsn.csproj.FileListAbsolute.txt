@@ -1,0 +1,15 @@
+C:\Users\Rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\015-nsd-nsn\bin\Debug\net8.0\015-nsd-nsn.exe
+C:\Users\Rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\015-nsd-nsn\bin\Debug\net8.0\015-nsd-nsn.deps.json
+C:\Users\Rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\015-nsd-nsn\bin\Debug\net8.0\015-nsd-nsn.runtimeconfig.json
+C:\Users\Rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\015-nsd-nsn\bin\Debug\net8.0\015-nsd-nsn.dll
+C:\Users\Rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\015-nsd-nsn\bin\Debug\net8.0\015-nsd-nsn.pdb
+C:\Users\Rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\015-nsd-nsn\obj\Debug\net8.0\015-nsd-nsn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\015-nsd-nsn\obj\Debug\net8.0\015-nsd-nsn.AssemblyInfoInputs.cache
+C:\Users\Rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\015-nsd-nsn\obj\Debug\net8.0\015-nsd-nsn.AssemblyInfo.cs
+C:\Users\Rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\015-nsd-nsn\obj\Debug\net8.0\015-nsd-nsn.csproj.CoreCompileInputs.cache
+C:\Users\Rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\015-nsd-nsn\obj\Debug\net8.0\015-nsd-nsn.sourcelink.json
+C:\Users\Rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\015-nsd-nsn\obj\Debug\net8.0\015-nsd-nsn.dll
+C:\Users\Rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\015-nsd-nsn\obj\Debug\net8.0\refint\015-nsd-nsn.dll
+C:\Users\Rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\015-nsd-nsn\obj\Debug\net8.0\015-nsd-nsn.pdb
+C:\Users\Rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\015-nsd-nsn\obj\Debug\net8.0\015-nsd-nsn.genruntimeconfig.cache
+C:\Users\Rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\015-nsd-nsn\obj\Debug\net8.0\ref\015-nsd-nsn.dll

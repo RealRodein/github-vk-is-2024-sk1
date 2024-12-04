@@ -1,0 +1,15 @@
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\014-kombinovane-zadani\bin\Debug\net8.0\014-kombinovane-zadani.exe
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\014-kombinovane-zadani\bin\Debug\net8.0\014-kombinovane-zadani.deps.json
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\014-kombinovane-zadani\bin\Debug\net8.0\014-kombinovane-zadani.runtimeconfig.json
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\014-kombinovane-zadani\bin\Debug\net8.0\014-kombinovane-zadani.dll
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\014-kombinovane-zadani\bin\Debug\net8.0\014-kombinovane-zadani.pdb
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\014-kombinovane-zadani\obj\Debug\net8.0\014-kombinovane-zadani.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\014-kombinovane-zadani\obj\Debug\net8.0\014-kombinovane-zadani.AssemblyInfoInputs.cache
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\014-kombinovane-zadani\obj\Debug\net8.0\014-kombinovane-zadani.AssemblyInfo.cs
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\014-kombinovane-zadani\obj\Debug\net8.0\014-kombinovane-zadani.csproj.CoreCompileInputs.cache
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\014-kombinovane-zadani\obj\Debug\net8.0\014-kombinovane-zadani.sourcelink.json
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\014-kombinovane-zadani\obj\Debug\net8.0\014-kombinovane-zadani.dll
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\014-kombinovane-zadani\obj\Debug\net8.0\refint\014-kombinovane-zadani.dll
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\014-kombinovane-zadani\obj\Debug\net8.0\014-kombinovane-zadani.pdb
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\014-kombinovane-zadani\obj\Debug\net8.0\014-kombinovane-zadani.genruntimeconfig.cache
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\014-kombinovane-zadani\obj\Debug\net8.0\ref\014-kombinovane-zadani.dll

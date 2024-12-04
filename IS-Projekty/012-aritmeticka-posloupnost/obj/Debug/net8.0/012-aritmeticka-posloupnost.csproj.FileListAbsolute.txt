@@ -1,0 +1,15 @@
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\012-aritmeticka-posloupnost\bin\Debug\net8.0\012-aritmeticka-posloupnost.exe
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\012-aritmeticka-posloupnost\bin\Debug\net8.0\012-aritmeticka-posloupnost.deps.json
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\012-aritmeticka-posloupnost\bin\Debug\net8.0\012-aritmeticka-posloupnost.runtimeconfig.json
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\012-aritmeticka-posloupnost\bin\Debug\net8.0\012-aritmeticka-posloupnost.dll
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\012-aritmeticka-posloupnost\bin\Debug\net8.0\012-aritmeticka-posloupnost.pdb
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\012-aritmeticka-posloupnost\obj\Debug\net8.0\012-aritmeticka-posloupnost.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\012-aritmeticka-posloupnost\obj\Debug\net8.0\012-aritmeticka-posloupnost.AssemblyInfoInputs.cache
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\012-aritmeticka-posloupnost\obj\Debug\net8.0\012-aritmeticka-posloupnost.AssemblyInfo.cs
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\012-aritmeticka-posloupnost\obj\Debug\net8.0\012-aritmeticka-posloupnost.csproj.CoreCompileInputs.cache
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\012-aritmeticka-posloupnost\obj\Debug\net8.0\012-aritmeticka-posloupnost.sourcelink.json
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\012-aritmeticka-posloupnost\obj\Debug\net8.0\012-aritmeticka-posloupnost.dll
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\012-aritmeticka-posloupnost\obj\Debug\net8.0\refint\012-aritmeticka-posloupnost.dll
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\012-aritmeticka-posloupnost\obj\Debug\net8.0\012-aritmeticka-posloupnost.pdb
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\012-aritmeticka-posloupnost\obj\Debug\net8.0\012-aritmeticka-posloupnost.genruntimeconfig.cache
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\012-aritmeticka-posloupnost\obj\Debug\net8.0\ref\012-aritmeticka-posloupnost.dll

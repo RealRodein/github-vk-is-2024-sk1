@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "010-konvergence/1.0.0": {
+        "runtime": {
+          "010-konvergence.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "010-konvergence/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

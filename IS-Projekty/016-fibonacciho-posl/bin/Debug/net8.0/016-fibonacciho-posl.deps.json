@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "016-fibonacciho-posl/1.0.0": {
+        "runtime": {
+          "016-fibonacciho-posl.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "016-fibonacciho-posl/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

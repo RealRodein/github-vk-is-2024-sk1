@@ -1,0 +1,15 @@
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\013-prevod-soustav\obj\Debug\net8.0\013-prevod-soustav.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\013-prevod-soustav\obj\Debug\net8.0\013-prevod-soustav.AssemblyInfoInputs.cache
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\013-prevod-soustav\obj\Debug\net8.0\013-prevod-soustav.AssemblyInfo.cs
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\013-prevod-soustav\obj\Debug\net8.0\013-prevod-soustav.csproj.CoreCompileInputs.cache
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\013-prevod-soustav\obj\Debug\net8.0\013-prevod-soustav.sourcelink.json
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\013-prevod-soustav\bin\Debug\net8.0\013-prevod-soustav.exe
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\013-prevod-soustav\bin\Debug\net8.0\013-prevod-soustav.deps.json
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\013-prevod-soustav\bin\Debug\net8.0\013-prevod-soustav.runtimeconfig.json
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\013-prevod-soustav\bin\Debug\net8.0\013-prevod-soustav.dll
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\013-prevod-soustav\bin\Debug\net8.0\013-prevod-soustav.pdb
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\013-prevod-soustav\obj\Debug\net8.0\013-prevod-soustav.dll
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\013-prevod-soustav\obj\Debug\net8.0\refint\013-prevod-soustav.dll
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\013-prevod-soustav\obj\Debug\net8.0\013-prevod-soustav.pdb
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\013-prevod-soustav\obj\Debug\net8.0\013-prevod-soustav.genruntimeconfig.cache
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\013-prevod-soustav\obj\Debug\net8.0\ref\013-prevod-soustav.dll

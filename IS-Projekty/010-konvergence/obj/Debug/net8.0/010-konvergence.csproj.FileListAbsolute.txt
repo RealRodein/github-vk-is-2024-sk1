@@ -1,0 +1,15 @@
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\010-konvergence\bin\Debug\net8.0\010-konvergence.exe
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\010-konvergence\bin\Debug\net8.0\010-konvergence.deps.json
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\010-konvergence\bin\Debug\net8.0\010-konvergence.runtimeconfig.json
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\010-konvergence\bin\Debug\net8.0\010-konvergence.dll
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\010-konvergence\bin\Debug\net8.0\010-konvergence.pdb
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\010-konvergence\obj\Debug\net8.0\010-konvergence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\010-konvergence\obj\Debug\net8.0\010-konvergence.AssemblyInfoInputs.cache
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\010-konvergence\obj\Debug\net8.0\010-konvergence.AssemblyInfo.cs
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\010-konvergence\obj\Debug\net8.0\010-konvergence.csproj.CoreCompileInputs.cache
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\010-konvergence\obj\Debug\net8.0\010-konvergence.sourcelink.json
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\010-konvergence\obj\Debug\net8.0\010-konvergence.dll
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\010-konvergence\obj\Debug\net8.0\refint\010-konvergence.dll
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\010-konvergence\obj\Debug\net8.0\010-konvergence.pdb
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\010-konvergence\obj\Debug\net8.0\010-konvergence.genruntimeconfig.cache
+C:\Users\rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\010-konvergence\obj\Debug\net8.0\ref\010-konvergence.dll

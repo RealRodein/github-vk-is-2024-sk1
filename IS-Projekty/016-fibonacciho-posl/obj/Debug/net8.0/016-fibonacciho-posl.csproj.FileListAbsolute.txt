@@ -1,0 +1,15 @@
+C:\Users\Rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\016-fibonacciho-posl\bin\Debug\net8.0\016-fibonacciho-posl.exe
+C:\Users\Rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\016-fibonacciho-posl\bin\Debug\net8.0\016-fibonacciho-posl.deps.json
+C:\Users\Rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\016-fibonacciho-posl\bin\Debug\net8.0\016-fibonacciho-posl.runtimeconfig.json
+C:\Users\Rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\016-fibonacciho-posl\bin\Debug\net8.0\016-fibonacciho-posl.dll
+C:\Users\Rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\016-fibonacciho-posl\bin\Debug\net8.0\016-fibonacciho-posl.pdb
+C:\Users\Rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\016-fibonacciho-posl\obj\Debug\net8.0\016-fibonacciho-posl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\016-fibonacciho-posl\obj\Debug\net8.0\016-fibonacciho-posl.AssemblyInfoInputs.cache
+C:\Users\Rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\016-fibonacciho-posl\obj\Debug\net8.0\016-fibonacciho-posl.AssemblyInfo.cs
+C:\Users\Rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\016-fibonacciho-posl\obj\Debug\net8.0\016-fibonacciho-posl.csproj.CoreCompileInputs.cache
+C:\Users\Rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\016-fibonacciho-posl\obj\Debug\net8.0\016-fibonacciho-posl.sourcelink.json
+C:\Users\Rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\016-fibonacciho-posl\obj\Debug\net8.0\016-fibonacciho-posl.dll
+C:\Users\Rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\016-fibonacciho-posl\obj\Debug\net8.0\refint\016-fibonacciho-posl.dll
+C:\Users\Rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\016-fibonacciho-posl\obj\Debug\net8.0\016-fibonacciho-posl.pdb
+C:\Users\Rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\016-fibonacciho-posl\obj\Debug\net8.0\016-fibonacciho-posl.genruntimeconfig.cache
+C:\Users\Rodein\OneDrive\codes\c#\github-vk-is-2024-sk1\IS-Projekty\016-fibonacciho-posl\obj\Debug\net8.0\ref\016-fibonacciho-posl.dll
