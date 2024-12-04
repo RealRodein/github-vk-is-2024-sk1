@@ -8,19 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\rodein\\.nuget\\packages\\": {}
+    "C:\\Users\\Rodein\\.nuget\\packages\\": {},
+    "C:\\Programs\\Microsoft\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rodein\\OneDrive\\codes\\c#\\github-vk-is-2024-sk1\\IS-Projekty\\006-analyza-textu\\006-analyza-textu.csproj",
+      "projectUniqueName": "C:\\Users\\Rodein\\OneDrive\\codes\\c#\\github-vk-is-2024-sk1\\IS-Projekty\\006-analyza-textu\\006-analyza-textu.csproj",
       "projectName": "006-analyza-textu",
-      "projectPath": "C:\\Users\\rodein\\OneDrive\\codes\\c#\\github-vk-is-2024-sk1\\IS-Projekty\\006-analyza-textu\\006-analyza-textu.csproj",
-      "packagesPath": "C:\\Users\\rodein\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rodein\\OneDrive\\codes\\c#\\github-vk-is-2024-sk1\\IS-Projekty\\006-analyza-textu\\obj\\",
+      "projectPath": "C:\\Users\\Rodein\\OneDrive\\codes\\c#\\github-vk-is-2024-sk1\\IS-Projekty\\006-analyza-textu\\006-analyza-textu.csproj",
+      "packagesPath": "C:\\Users\\Rodein\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Rodein\\OneDrive\\codes\\c#\\github-vk-is-2024-sk1\\IS-Projekty\\006-analyza-textu\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Programs\\Microsoft\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\rodein\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Rodein\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -45,7 +50,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net8.0": {
@@ -66,7 +72,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
