@@ -433,7 +433,58 @@ namespace usefull_functions
             }
             Console.WriteLine();
         }
-        
+
+        #endregion
+
+        #region 2D-ARRAYS
+
+        public static int[,] random_array_2d(int n, int m, int dm, int hm)
+        {
+            Random random = new Random();
+            int[,] result = new int[n, m];
+            for(int i = 0; i < n; i++)
+            {
+                for(int j = 0; j < m; j++)
+                {
+                    result[i, j] = random.Next(dm, hm + 1);
+                }
+            }
+            return result;
+        }
+
+        public static void array_out_2d(int[,] array)
+        {
+            int length = array.Cast<int>().Max().ToString().Length;
+
+            string format = $"{{0,{length + 1}}}";
+
+            for (int i = 0; i < array.GetLength(1); i++)
+            {
+                for (int j = 0; j < array.GetLength(0); j++)
+                {
+                    Console.Write(format, array[j, i]);
+                }
+                Console.WriteLine();
+            }
+            Console.WriteLine();
+        }
+
+        public static int find_in_2d_array(int[,] array, int x)
+        {
+            int result = 0;
+            for (int i = 0; i < array.GetLength(0); i++)
+            {
+                for (int j = 0; j < array.GetLength(1); j++)
+                {
+                    if (array[i, j] == x)
+                    {
+                        result++;
+                    }
+                }
+            }
+            return result;
+        }
+
         #endregion
 
         #region ARRAYS-BOOL
